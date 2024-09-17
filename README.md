@@ -1,16 +1,18 @@
-# Digital_Bank
-Digital Bank Overview The Digital Bank project is a comprehensive web application designed to offer a modern, user-friendly banking experience. This application includes features such as account management, transaction history, fund transfers, and financial reporting. Built with scalability and security in mind, the Digital Bank aims to provide users with a seamless and secure banking experience, leveraging the latest technologies and best practices in software development.
+Online Banking System
+Overview
+The Online Banking System is a robust web application designed to deliver a comprehensive online banking experience. This system allows users to manage their bank accounts, view transaction history, perform fund transfers, and generate financial reports—all through an intuitive, secure, and responsive interface.
 
 Features
-User Authentication: Secure sign-up, login, and password management.
-Account Management: View and manage account details and settings.
-Transaction History: Detailed view of past transactions with search and filter options.
-Fund Transfers: Transfer funds between accounts with real-time updates.
-Financial Reporting: Generate and view financial reports and summaries.
-Responsive Design: Optimized for both desktop and mobile devices.
+User Authentication: Secure login and registration with password recovery options.
+Account Overview: View account balance, recent transactions, and account details.
+Transaction Management: Access detailed transaction history and filter transactions by date or type.
+Fund Transfers: Seamlessly transfer funds between accounts and pay bills.
+Financial Reports: Generate and download reports for financial analysis and tax purposes.
+Notifications: Receive alerts and notifications for important account activities.
+Responsive Design: Optimized for both desktop and mobile devices to ensure a smooth user experience.
 Technologies
-Frontend: React, Redux, CSS3
+Frontend: React, Redux, Bootstrap
 Backend: Node.js, Express.js
-Database: MongoDB, Mongoose
-Authentication: JWT, bcrypt
-Deployment: Docker, Kubernetes, AWS
+Database: PostgreSQL, Sequelize
+Authentication: OAuth 2.0, bcrypt
+Deployment: Docker, AWS, CI/CD pipelines
