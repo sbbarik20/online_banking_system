@@ -1,4 +1,4 @@
-Online Banking System
+# Online Banking System
 Overview
 The Online Banking System is a robust web application designed to deliver a comprehensive online banking experience. This system allows users to manage their bank accounts, view transaction history, perform fund transfers, and generate financial reports—all through an intuitive, secure, and responsive interface.
 
